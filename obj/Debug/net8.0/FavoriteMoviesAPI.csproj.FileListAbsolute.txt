@@ -168,3 +168,4 @@ C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\FavoriteMoviesAPI.pdb
 C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\FavoriteMoviesAPI.genruntimeconfig.cache
 C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\ref\FavoriteMoviesAPI.dll
 C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\FavoriteMoviesAPI.sourcelink.json
+C:\Users\jhenn\FavoriteMoviesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

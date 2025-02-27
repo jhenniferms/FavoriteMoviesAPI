@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace FavoriteMoviesAPI.Models
 {
     public class User
@@ -6,7 +8,9 @@ namespace FavoriteMoviesAPI.Models
         public string Name { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public List<Movie> FavoriteMovies { get; set; } = new();
+
+        // Lista de filmes favoritos (agora do tipo FavoriteMovie)
+        public List<FavoriteMovie> FavoriteMovies { get; set; } = new();
     }
 }
 
