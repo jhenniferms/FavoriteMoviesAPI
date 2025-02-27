@@ -142,17 +142,10 @@ Abra um Pull Request.
 📧 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
 
-Nome: [Seu Nome]
+Nome: Jhennifer Silva
 
-E-mail: [seu-email@example.com]
+E-mail: jhennifer.j@gmail.com
 
-GitHub: seu-usuario
+GitHub: jhenniferms
 
-Feito com ❤️ por [Seu Nome]! 🚀
-
-Como Usar o README.md
-Substitua os placeholders (como SUA_CHAVE_AQUI, seu-usuario, seu-email@example.com, etc.) pelas informações reais do seu projeto.
-
-Adicione ou remova seções conforme necessário.
-
-Salve o arquivo como README.md na raiz do seu projeto.
+Feito com ❤️ por Jhennifer Silva! 🚀
