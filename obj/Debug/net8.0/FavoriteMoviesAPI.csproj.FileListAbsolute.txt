@@ -167,3 +167,4 @@ C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\refint\FavoriteMoviesAPI.dll
 C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\FavoriteMoviesAPI.pdb
 C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\FavoriteMoviesAPI.genruntimeconfig.cache
 C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\ref\FavoriteMoviesAPI.dll
+C:\Users\jhenn\FavoriteMoviesAPI\obj\Debug\net8.0\FavoriteMoviesAPI.sourcelink.json
