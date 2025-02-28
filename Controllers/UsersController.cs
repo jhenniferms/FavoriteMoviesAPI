@@ -19,6 +19,13 @@ namespace FavoriteMoviesAPI.Controllers
             _context = context;
         }
 
+        // GET: api/Users
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<User>>> GetUsers()
+        {
+            return await _context.Users.ToListAsync();
+        }
+
         // GET: api/Users/1/favorites
         [HttpGet("{userId}/favorites")]
         public async Task<ActionResult<IEnumerable<FavoriteMovie>>> GetFavorites(int userId)
